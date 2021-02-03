@@ -20,7 +20,7 @@
 
 |Desktop|Ultra Wide|
 |:---:|:---:|
-|<kbd><img src="./previews/desktop_preview.png" alt="Desktop"/></kbd>|<kbd><img src="./previews/ultraWide_preview.png" alt="Ultra Wide"/></kbd>|
+|<kbd><img src="./src/previews/desktop_preview.png" alt="Desktop"/></kbd>|<kbd><img src="./src/previews/ultraWide_preview.png" alt="Ultra Wide"/></kbd>|
 
 </div>
 
