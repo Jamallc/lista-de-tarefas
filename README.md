@@ -41,7 +41,7 @@ Qualquer um que fizer o download, poderá executar o projeto localmente.
 <div align="center">
 
 <a href="https://github.com/Jamallc">
- <img src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" width="100px;" alt="Imagem de Perfil Nome Sobrenome"/>
+ <img src="https://avatars.githubusercontent.com/u/76965306?s=400&u=9f41a5fc1d0a3dc930c0f6c1a987b76ca2bef819&v=4" width="100px;" alt="Imagem de Perfil Nome Sobrenome"/>
  <br/>
  <sub><b>Weber Rocha</b></sub>
 </a>
