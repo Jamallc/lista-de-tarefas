@@ -1,70 +1,65 @@
-# Getting Started with Create React App
+<p align="center">
+  <a href="https://github.com/Jamallc">
+    <img alt="Desenvolvido por Weber Rocha" src="https://img.shields.io/badge/Desenvolvedor-Weber Rocha-%3498db?color=3498db&style=for-the-badge">
+  </a>
+<p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+ <a href="#eye_speech_bubble-visualizar">Visualizar</a> •
+ <a href="#information_source-sobre">Sobre</a> •
+ <a href="#boy-autor">Autor</a> •
+ <a href="#balance_scale-licença">Licença</a>
+</p>
 
-## Available Scripts
+---
+## :eye_speech_bubble: **Visualizar**
 
-In the project directory, you can run:
+<div align="center">
 
-### `yarn start`
+### :desktop_computer: Computador
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+|Desktop|Ultra Wide|
+|:---:|:---:|
+|<kbd><img src="./previews/desktop_preview.png" alt="Desktop"/></kbd>|<kbd><img src="./previews/ultraWide_preview.png" alt="Ultra Wide"/></kbd>|
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+</div>
 
-### `yarn test`
+---
+## :information_source: Sobre
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Este é um projeto REACTJS simples de uma lista de tarefas, é apenas para testar o conhecimento react com javascript.
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+</details>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+> ⚠️ servidor: localmente em <http://localhost/3000> mas para abrir deve-se colocar no console o comando (npm start).
+Qualquer um que fizer o download, poderá executar o projeto localmente.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
+## :boy: **Autor**
 
-### `yarn eject`
+<div align="center">
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<a href="https://github.com/Jamallc">
+ <img src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" width="100px;" alt="Imagem de Perfil Nome Sobrenome"/>
+ <br/>
+ <sub><b>Weber Rocha</b></sub>
+</a>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Desenvolvido com ❤️ por Weber Rocha 👋🏽 Entre em contato!
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weber-de-oliveira-rocha-417bb4196/)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+[![Github Badge](https://img.shields.io/badge/-Jamallc-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/Jamallc)
+[![Outlook Badge](https://img.shields.io/badge/-EMAIL-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:weberrocha15@gmail.com)
 
-## Learn More
+</div>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
+## :balance_scale: **Licença**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<div align="center">
 
-### Code Splitting
+Copyright © 2021 [Weber Rocha](https://github.com/Jamallc).<br />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+</div>
